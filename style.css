@@ -1,0 +1,20 @@
+.container{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.jumbotron{
+    background-color:black;
+    color:white;
+    text-align: center;
+  
+}
+
+.containercard{
+    border-style: solid;
+    border-color: grey;
+}
+.card-header{
+    background-color: grey;
+    color:black
+}
+
